@@ -1,5 +1,3 @@
-
-
 package com.crea.backend.microservicespringboot.dao;
 
 import org.springframework.data.jpa.repository.JpaRepository;

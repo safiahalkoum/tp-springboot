@@ -8,6 +8,7 @@
 ### Link
 ```
 http://localhost:8080
+http://localhost:8080/h2-console
 ```
 
 ### Routes products
@@ -17,6 +18,14 @@ http://localhost:8080
 - /product/byName/{name}
 - /product/highestPrice/{highPrice}
 - /product/delete/{id}
+
+### Routes users
+- /users
+- /register (body user)
+- /login (body user)
+- /user/{id}
+- /user/byUsername/{name}
+- /user/delete/{id}
 
 ### Routes countries
 - /countries
