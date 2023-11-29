@@ -1,5 +1,6 @@
 package com.crea.backend.microservicespringboot.controller;
 
+import java.util.HashMap;
 import java.util.List;
 import java.util.Optional;
 
@@ -7,6 +8,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
 import com.crea.backend.microservicespringboot.dao.UserDao;
+import com.crea.backend.microservicespringboot.dao.UserProductFavoriteDao;
 import com.crea.backend.microservicespringboot.model.UserData;
 
 

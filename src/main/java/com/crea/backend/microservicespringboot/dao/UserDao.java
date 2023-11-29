@@ -5,6 +5,7 @@ import java.util.List;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import com.crea.backend.microservicespringboot.model.UserData;
+import com.crea.backend.microservicespringboot.model.UserProductFavorite;
 
 import org.springframework.stereotype.Repository;
 

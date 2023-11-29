@@ -2,6 +2,7 @@ package com.crea.backend.microservicespringboot.model;
 
 
 import jakarta.persistence.*;
+import java.util.*;
 
 
 @Entity

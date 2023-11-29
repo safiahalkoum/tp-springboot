@@ -27,6 +27,13 @@ http://localhost:8080/h2-console
 - /user/byUsername/{name}
 - /user/delete/{id}
 
+### Routes user product favorite
+- /favorites/user/{idUser}
+- /favorites/users
+- /favorites/product/{idProduct}
+- /favorites/products
+
+
 ### Routes countries
 - /countries
 - /country/code/{countryCode}
@@ -38,8 +45,8 @@ http://localhost:8080/h2-console
 
 
 ### Login
-Username : user
-Password : mdp
+Username : Safia | Damien | Synda
+Password : Crea2023
 
 ### Customize configuration
 https://start.spring.io/
